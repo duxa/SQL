@@ -1,1 +1,10 @@
 F:\Interview\InterviewSQL\InterviewSQL\bin\Debug\InterviewSQL.exe.config
+F:\Interview\InterviewSQL\InterviewSQL\bin\Debug\InterviewSQL.exe
+F:\Interview\InterviewSQL\InterviewSQL\bin\Debug\InterviewSQL.pdb
+F:\Interview\InterviewSQL\InterviewSQL\bin\Debug\EntityFramework.dll
+F:\Interview\InterviewSQL\InterviewSQL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Interview\InterviewSQL\InterviewSQL\bin\Debug\EntityFramework.xml
+F:\Interview\InterviewSQL\InterviewSQL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Interview\InterviewSQL\InterviewSQL\obj\Debug\InterviewSQL.csprojResolveAssemblyReference.cache
+F:\Interview\InterviewSQL\InterviewSQL\obj\Debug\InterviewSQL.exe
+F:\Interview\InterviewSQL\InterviewSQL\obj\Debug\InterviewSQL.pdb

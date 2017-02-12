@@ -1,0 +1,16 @@
+F:\Interview\InterviewSQL\UnitTestSQL\bin\Debug\UnitTestSQL.dll.config
+F:\Interview\InterviewSQL\UnitTestSQL\bin\Debug\UnitTestSQL.dll
+F:\Interview\InterviewSQL\UnitTestSQL\bin\Debug\UnitTestSQL.pdb
+F:\Interview\InterviewSQL\UnitTestSQL\bin\Debug\EntityFramework.dll
+F:\Interview\InterviewSQL\UnitTestSQL\bin\Debug\EntityFramework.SqlServer.dll
+F:\Interview\InterviewSQL\UnitTestSQL\bin\Debug\InterviewSQL.exe
+F:\Interview\InterviewSQL\UnitTestSQL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\Interview\InterviewSQL\UnitTestSQL\bin\Debug\nunit.framework.dll
+F:\Interview\InterviewSQL\UnitTestSQL\bin\Debug\InterviewSQL.pdb
+F:\Interview\InterviewSQL\UnitTestSQL\bin\Debug\EntityFramework.xml
+F:\Interview\InterviewSQL\UnitTestSQL\bin\Debug\EntityFramework.SqlServer.xml
+F:\Interview\InterviewSQL\UnitTestSQL\bin\Debug\nunit.framework.xml
+F:\Interview\InterviewSQL\UnitTestSQL\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+F:\Interview\InterviewSQL\UnitTestSQL\obj\Debug\UnitTestSQL.csprojResolveAssemblyReference.cache
+F:\Interview\InterviewSQL\UnitTestSQL\obj\Debug\UnitTestSQL.dll
+F:\Interview\InterviewSQL\UnitTestSQL\obj\Debug\UnitTestSQL.pdb

@@ -13,6 +13,6 @@ namespace InterviewSQL
         public UserContext()
           : base("DbConnection")
         { }
-        public DbSet<User> Users { get; set; }
+        public virtual DbSet<User> Users { get; set; }
     }
 }
